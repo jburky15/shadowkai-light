@@ -1,6 +1,7 @@
 {
     "name": "shadowkai-light",
     "displayName": "ShadowKai Light",
+    "icon": "icon/icon.png",
     "description": "A light theme, for those who don't mind the extra eye strain.",
     "version": "0.0.1",
     "publisher": "ShadowKai",
