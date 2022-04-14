@@ -11,7 +11,7 @@
 		"badge.background": "#EFEFEF30",
 		"badge.foreground": "#25283D",
 		"breadcrumb.activeSelectionForeground": "#25283D",
-		"breadcrumb.background": "#888888",
+		"breadcrumb.background": "#888888fa",
 		"breadcrumb.focusForeground": "#d9ff00",
 		"breadcrumb.foreground": "#afce00",
 		"breadcrumbPicker.background": "#EFEFEF",
