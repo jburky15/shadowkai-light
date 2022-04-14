@@ -3,7 +3,7 @@
     "displayName": "ShadowKai Light",
     "icon": "icon/icon.png",
     "description": "A light theme, for those who don't mind the extra eye strain.",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "publisher": "ShadowKai",
     "repository": {
         "type": "git",
